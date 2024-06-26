@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 
 setup(
       name = 'refractive_index',
-      version = '0.0.1',
+      version = '0.0.2',
       descirption = 'refractive_index',
       url = 'https://github.com/yg85ee/refractive_index',
       author='yg',

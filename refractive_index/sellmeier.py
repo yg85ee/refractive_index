@@ -6,8 +6,6 @@ Created on Wed Jun 26 14:56:49 2024
 """
 
 import numpy as np
-import matplotlib.pyplot as plt
-from domain import makeGrid, makeFGrid
 
 class BK7:
     """
